@@ -1,0 +1,8 @@
+{
+    "NumClasses":18,
+    "Height":288,
+    "Width":384,
+    "BatchSize":5,
+    "SavePath":"./ModelFiles/",
+    "Epochs":10
+}
